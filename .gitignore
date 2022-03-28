@@ -1,5 +1,5 @@
 # Logs
-pnpm-lock.yaml
+# pnpm-lock.yaml
 logs
 *.log
 npm-debug.log*
